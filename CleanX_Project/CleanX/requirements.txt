@@ -1,0 +1,1 @@
+pandas>=2.0.0\nstreamlit>=1.32.0\n

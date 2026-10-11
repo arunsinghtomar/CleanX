@@ -1,0 +1,9 @@
+Student ID,Name,Department,Marks,Email
+101,  Asha Sharma ,CSE,87,asha@example.com
+102,Rahul Verma,ECE,76,rahul@example.com
+103,Meera Singh,CSE,,meera@example.com
+104,Kabir Das,IT,91,kabir@example.com
+104,Kabir Das,IT,91,kabir@example.com
+105,  Priya Kapoor,CSE,84,
+106,,ECE,69,dev@example.com
+107,Ishaan Roy ,IT,  ,ishaan@example.com
